@@ -22,22 +22,20 @@ A simple To-do app
 
 ### 1. Clone the repo
 
-git clone https://github.com/devdeejay27/notesy.git
+git clone https://github.com/devdeejay27/taskly.git
 
-cd vibes
+cd taskly
 
 ### 2. Install dependencies
 
 flutter clean
+
 flutter pub get
 
 ### 3. Run the app in terminal
 
 flutter run
 
-## 🧪 Running Tests
-
-flutter test
 
 ## 👨‍💻 Author
 
